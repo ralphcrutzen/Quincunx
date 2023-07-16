@@ -3,7 +3,7 @@ Design for a Galton board
 
 I designed this using InkScape, then used TinkerCad to make an stl. The top pane was lasercut out of clear acrylic.
 
-![Photo](photos/quincunx.jpg)
+<img src="photos/quincunx.jpg" alt="Photo" width="400"/>
 
 Things you need:
 - 3D printer
