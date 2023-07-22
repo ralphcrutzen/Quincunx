@@ -12,7 +12,7 @@ Things you need:
 - 3 mm nuts & bolts (x4)
 - Steel balls.
 
-I recommend to use balls with a diamter of 2 mm. At first, I used steel balls with a diameter of 1 mm. Unfortunately, these were too small. Because of satic electricity, some of the balls get stuck half way. 2 mm balls seem to work good.
+I recommend to use balls with a diamter of 2 mm. At first, I used steel balls with a diameter of 1 mm. Unfortunately, these were too small. Because of satic electricity, some of the balls get stuck half way. 2 mm balls seem to work well.
 
 File | Description
 ---- | -----------
