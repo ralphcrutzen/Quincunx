@@ -21,7 +21,7 @@ File | Description
 [Quincunx top.svg](/Quincunx%20top.svg) | Top panel with Pascal's triangle and the normal distribution formula (to be lasercut)
 [Quincunx.stl](/Quincunx.stl) | Back and middle panel inported in TinkerCad, set the thickness (1 and 2 mm), then grouped.
 
-- The space between the hexagons of the 3D printed part is 4 mm. In an older version, this used to be 3 mm. The lasercut part ([Quincunx top.svg](/Quincunx%20top.svg)) still had the old dimensions, so these hexagons are a bit too large.
+- The lasercut part ([Quincunx top.svg](/Quincunx%20top.svg)) still has larger hexagons with 3 mm space between them. In later versions, I made the hexagons smaller in the 3D printed part ([Quincunx.svg](/Quincunx.svg)). The lasercut part still has to be changed accordingly.
 - In the provided .stl file, the middle panel has a thickness of 2 mm, to be used with balls of the same diameter. If you want to use balls with a different diameter, use the following workflow to create your own .stl file to be 3D printed.
   - Import [Quincunx bottom.svg](/Quincunx%20bottom.svg) and [Quincunx.svg](/Quincunx.svg) into [TinkerCad](https://www.tinkercad.com/).
   - Set the thickness of both panels. For the middle panel: use the diameter of the balls you are using.
